@@ -13,3 +13,15 @@ Red
 These are the colors of the rainbow.
 And the Unicorn.
 Pony
+
+No! Let's correct the colors of the rainbow.
+
+The Correct Rainbow
+
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
