@@ -6,6 +6,7 @@ Orange
 Blue
 Green
 Indigo
+Violet
 Recycle day! rrr
 Unicorn
 Yellow
@@ -13,3 +14,4 @@ Red
 These are the colors of the rainbow.
 And the Unicorn.
 Pony
+Across the sky after the rain.
